@@ -27,7 +27,6 @@ Key features are:
 * Search results with custom format
 * Supports only ES 7.x
 
-
 ## Why qelk?
 
 Get things done with a few commands from the cli.
