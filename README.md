@@ -216,7 +216,7 @@ First, run the following command.
 $ qelk 
 ```
 
-After that you can press `F1` for `stats`, `F2` for `inspect`. You can use `tab` key for moving between different widgets, `ENTER` key for pressing buttons.
+After that you can press <kbd>F1</kbd> for `stats`, <kbd>F2</kbd> for `inspect`. You can use <kbd>tab</kbd> key for moving between different widgets, <kbd>ENTER</kbd> key for pressing buttons.
 
 ## TODO
 Want to contribute? Here is a short TODO list of things that aren't implemented in this application that would be nice:
