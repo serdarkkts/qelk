@@ -5,13 +5,11 @@
 <p align="center">
    <a href="https://goreportcard.com/badge/github.com/serdarkkts/qelk"><img src="https://goreportcard.com/badge/github.com/serdarkkts/qelk?" alt="Go Report"></a>
   <a href="https://github.com/serdarkkts/qelk/blob/master/LICENSE"><img src="https://img.shields.io/github/license/serdarkkts/qelk?" alt="Apache 2.0"></a>
-  <a href="https://asciinema.org/a/WGDybzDPBY7yzemNvmPRUSiu2"><img src="https://img.shields.io/badge/demo-terminal%20session-brightgreen" alt="Demo"></a>
-<a href="https://github.com/serdarkkts/qelk/releases"><img src="https://img.shields.io/github/v/release/serdarkkts/qelk" alt="Demo"></a>
-  
+  <a href="https://github.com/serdarkkts/qelk/releases"><img src="https://img.shields.io/github/v/release/serdarkkts/qelk" alt="Demo"></a> 
 </p>
 
 ___
-
+[![asciicast](https://asciinema.org/a/MyGMnsuX7OMtYd2ah8KUjvXRK.svg)](https://asciinema.org/a/MyGMnsuX7OMtYd2ah8KUjvXRK)
 ## What is qelk?
 
 Qelk helps you to monitor your Elasticsearch cluster, execute search queries
