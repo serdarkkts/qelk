@@ -10,5 +10,5 @@ require (
 	github.com/rivo/tview v0.0.0-20200818120338-53d50e499bf9
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/viper v1.7.1
-	github.com/tidwall/gjson v1.6.1
+	github.com/tidwall/gjson v1.9.3
 )
